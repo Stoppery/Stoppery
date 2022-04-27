@@ -1,4 +1,17 @@
-Hi 👋 My name is Miromanov Maxim ================================  Frontend developer ------------------  \- I graduated BMSTU, with a specialisation in computer science and computer technology (2015-2020), where I discovered my preferences in web development - have been studying at 'school 21' (subsidiary of school 42) - working as JavaScript developer in SBER (2020 - ...)  * 🌍  I'm based in Moscow, but flexible for relocation * ✉️  You can contact me at [max.miromanov@yandex.ru](mailto:max.miromanov@yandex.ru) * 🚀  I'm currently working on [SBER](http://sber.ru) * 🧠  I'm learning React and Express * ⚡  Exploring OIDC and oauth2 in parallel with coding
+Hi 👋 My name is Miromanov Maxim 
+================================  
+
+Frontend developer
+------------------  
+\- I graduated BMSTU, with a specialisation in computer science and computer technology (2015-2020), where I discovered my preferences in web development 
+\- have been studying at 'school 21' (subsidiary of school 42) 
+\- working as JavaScript developer in SBER (2020 - ...) 
+
+* 🌍  I'm based in Moscow, but flexible for relocation 
+* ✉️  You can contact me at [max.miromanov@yandex.ru](mailto:max.miromanov@yandex.ru) 
+* 🚀  I'm currently working on [SBER](http://sber.ru) 
+*  🧠  I'm learning React and Express 
+*  ⚡  Exploring OIDC and oauth2 in parallel with coding
 
 ### Skills
 
