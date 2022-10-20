@@ -1,4 +1,4 @@
-Hi, stranger!
+Hi, stranger!  
 My name is Miromanov Maxim 
 ================================  
 
