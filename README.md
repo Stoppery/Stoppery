@@ -5,7 +5,7 @@ My name is Miromanov Maxim
 Frontend developer
 ------------------  
 * I graduated BMSTU, with a specialisation in computer science and computer technology (2015-2020), where I discovered my preferences in web development 
-* have been studying at 'school 21' (subsidiary of school 42) 
+* had been studying at 'school 21' (subsidiary of school 42) 
 * working as JavaScript developer in SBER (2020 - ...) 
 
 * 🌍  I'm based in Moscow, but flexible for relocation 
