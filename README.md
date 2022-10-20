@@ -1,4 +1,5 @@
-Hi 👋 My name is Miromanov Maxim 
+Hi 👋 
+My name is Miromanov Maxim 
 ================================  
 
 Frontend developer
